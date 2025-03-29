@@ -3,8 +3,8 @@
 # Greetings everyone 👋, Welcome to my Github space.
 
 ### I'm Chinda from Afrika. ###
-### I am a **Software Engineer** specialized in **Backend-Development, API-development, Database-management, and Scalable-Web-Applications.**
-### I love my line of work and also enjoy learning and working with languages and frameworks like C, Python, JavaScript, NodeJS, React, Django, Flask, as as well work in Database Administration using MYSQL, PostgreSQL, MongoDb.
+### I am a **Software Engineer** with a laser like focus in **Backend-development, API-development, Database-management, and Scalable-Web-Applications.**
+### I enjoy learning and working with languages and frameworks like C, Python, JavaScript, NodeJS, React, Django, Flask, as well as work in Database development and administration using MYSQL, PostgreSQL, MongoDb.
 
 ## Skills and Experience:
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)    **Python**

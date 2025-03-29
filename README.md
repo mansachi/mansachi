@@ -6,7 +6,7 @@
 ### I am a **Software Engineer** with a laser like focus in **Backend-development, API-development, Database-management, and Scalable-Web-Applications.**
 ### I enjoy learning and working with languages and frameworks like C, Python, JavaScript, NodeJS, React, Django, Flask, as well as work in Database development and administration using MYSQL, PostgreSQL, MongoDb.
 
-## Skills and Experience:
+## Skills:
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(2).png)    **Python**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(3).png)    **Javascript**
 - ![](https://github.com/mansachinda/mansachinda/blob/main/download%20(4).png)    **Django**
